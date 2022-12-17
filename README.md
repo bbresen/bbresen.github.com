@@ -1,2 +1,2 @@
-# bbresen.github.com
+# bbresen.github.io
 Yapay zeka ile çizilmiş resimler sitesi
